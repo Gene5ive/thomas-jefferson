@@ -1,8 +1,8 @@
 ## Thomas Jefferson
 
-<a href="APP LINK IF APPLICABLE" target="#"><APP LINK NAME></a>
+<a href="https://thomasjefferson.firebaseapp.com/" target="#">Thomas Jefferson></a>
 
-By Frank Johnson (<a href="https://github.com/gene5ive" target="#">GitHub</a>)
+By Gene Johnson (<a href="https://github.com/gene5ive" target="#">GitHub</a>)
 
 @ Epicodus Programming School, Portland, OR
 
@@ -14,7 +14,7 @@ This app allows a user to view contact information for any legislator by zip cod
 
 ### Author(s)
 
-Ian MacDonald and Frank Johnson
+Ian MacDonald and Gene Johnson
 
 # Thomas-Jefferson
 
